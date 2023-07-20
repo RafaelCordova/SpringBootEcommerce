@@ -1,10 +1,14 @@
-# spring-ecommerce
-Curso spring ecommerce básico
+# PROYECTO DE TALLER CONSTRUCCION SOFTWARE
+Basado en SpringBoot tomcat 9.075
 
-- Accede al curso Aprende a desarrollar un sitio ecommerce con Spring Boot (Mejorado): https://github.com/elivarl/springboot-ecommerce-course-detail
+HOME
+![image](https://github.com/RafaelCordova/SpringBootEcommerce/assets/44307351/04895fd8-377a-4d84-9493-f6298e68e4a3)
+![image](https://github.com/RafaelCordova/SpringBootEcommerce/assets/44307351/8c698a96-f669-4241-a477-5398621d90fc)
+![image](https://github.com/RafaelCordova/SpringBootEcommerce/assets/44307351/f0f9715a-af15-48fd-b99d-376be89338c7)
+VISTA USUARIO
+![image](https://github.com/RafaelCordova/SpringBootEcommerce/assets/44307351/06945ff3-6dac-4376-b893-9a2fbbb79b55)
+PASARELLA PAYPAL
+![image](https://github.com/RafaelCordova/SpringBootEcommerce/assets/44307351/4a79983c-bf69-4d2a-a895-3779677771f2)
 
-Proyecto Spring Framework, Spring Boot, Servicios REST, Thymeleaf, Spring MVC, Spring Data JPA, Spring Security y deployment en Digital Ocean
-
-Curso en Youtube: https://www.youtube.com/playlist?list=PL3vxkSlW2FvU9z7Gz_Nn3E69HjEvv55_G
 
 
